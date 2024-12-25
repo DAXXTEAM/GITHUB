@@ -10,7 +10,7 @@ class Config:
     API_HASH = os.getenv('API_HASH')
     BOT_TOKEN = os.getenv('BOT_TOKEN')
     
-    # GitHub configuration
+    # GitHub configuration_
     GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
     
     @classmethod
